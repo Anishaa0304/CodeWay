@@ -1,0 +1,27 @@
+
+html {
+        background-color: #E4E9FD;
+        background-image: -webkit-linear-gradient(65deg, #ceb9f3 50%, #E4E9FD 50%);
+        min-height: 1000px;
+        font-family: 'helvetica neue';
+        
+}
+hr{
+            border-color: white;
+             border-style: solid ;
+             border-width: 2px;
+             height: 0px;
+             width: 100%;
+             }
+h1{
+        color: #674188;
+    }
+h3{
+    color: #674188;
+}
+td{
+    width: 45%;
+    padding:2%
+}
+
+    
